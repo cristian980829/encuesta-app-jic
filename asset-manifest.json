@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/encuesta-app-jic/static/css/main.bd37b50b.chunk.css",
+    "main.js": "/encuesta-app-jic/static/js/main.346c9097.chunk.js",
+    "main.js.map": "/encuesta-app-jic/static/js/main.346c9097.chunk.js.map",
+    "runtime-main.js": "/encuesta-app-jic/static/js/runtime-main.8ef26e72.js",
+    "runtime-main.js.map": "/encuesta-app-jic/static/js/runtime-main.8ef26e72.js.map",
+    "static/js/2.beaa066d.chunk.js": "/encuesta-app-jic/static/js/2.beaa066d.chunk.js",
+    "static/js/2.beaa066d.chunk.js.map": "/encuesta-app-jic/static/js/2.beaa066d.chunk.js.map",
+    "index.html": "/encuesta-app-jic/index.html",
+    "static/css/main.bd37b50b.chunk.css.map": "/encuesta-app-jic/static/css/main.bd37b50b.chunk.css.map",
+    "static/js/2.beaa066d.chunk.js.LICENSE.txt": "/encuesta-app-jic/static/js/2.beaa066d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ef26e72.js",
+    "static/js/2.beaa066d.chunk.js",
+    "static/css/main.bd37b50b.chunk.css",
+    "static/js/main.346c9097.chunk.js"
+  ]
+}
